@@ -1,1 +1,9 @@
+Họ và tên: Nguyễn Văn Chung
+Mã SV:13020614
 
+Bài tập tuần 2: nâng cấp bài tuần 1
+
+Nâng cấp bài tuần 1 để test hàm hocluc trong class SinhVien.
+Sử dụng phương pháp kiểm thử giá trị biên để kiểm tra hàm học lực có xét hết các giá trị biên để xét học lực hay không.
+Trong bài này hàm bị sai khi ta test với các biên có giá trị 0,4,7 do hàm chưa xét hết khả năng của các biên.
+Phương pháp kiểm thử bằng giá trị biên giúp ta phát hiện ra 1 cách nhanh chóng nhất lỗi của hàm vì hàm có khả năng sai ở biên nhiều nhất.
